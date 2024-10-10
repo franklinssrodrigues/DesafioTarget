@@ -10,7 +10,7 @@ public class Calculadora {
 		int num1 = 0;
 		int num2 = 1;
 		int prox = 0;
-		boolean condicao = false;
+
 		
 		Scanner scan = new Scanner(System.in);
 		
