@@ -32,6 +32,7 @@ public class Calculadora {
 			
 			else if(prox > referencia){
 				System.out.println("O valor não se encontra na lista");
+				break;
 			}
 			
 			num1 = num2;

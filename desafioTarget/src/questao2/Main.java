@@ -9,7 +9,7 @@ public class Main {
 		Scanner scan = new Scanner(System.in);
 		
 		System.out.println("Digite a frase: ");
-		String frase = scan.next();
+		String frase = scan.nextLine();
 		
 		char caractereAlvo = 'a';
 		int cont = 0;
